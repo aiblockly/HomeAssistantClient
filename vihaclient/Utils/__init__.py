@@ -1,0 +1,1 @@
+from .Config import add_broadlink_rm,add_yeelight
